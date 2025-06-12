@@ -1,13 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": 1230764400,
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
-      "romtype": "nightly",
-      "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
-      "version": "15.1"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1749720023,
+            "filename": "axion-1.5-NIGHTLY-20250612-COMMUNITY-GMS-sweet.zip",
+            "id": "51f24aeee2017e9054b01eff07505f50",
+            "romtype": "COMMUNITY",
+            "size": 1940537817,
+            "url": "https://www.pling.com/p/2259442/",
+            "version": "1.5"
+        }
+    ]
 }
